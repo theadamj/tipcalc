@@ -1,0 +1,36 @@
+body{
+	margin:0 0px 0 20px;
+	text-align:center;
+	font-family: helvetica;
+}
+
+h4{
+	margin:-10px 0 15px 0;
+}
+
+#num-one{}
+
+#num-two{}
+
+#add-sum{}
+
+
+
+/*Small Devices */
+@media(max-width:768px){
+}
+
+
+/*Medium Devices */
+@media(min-width:992px){
+}
+
+
+/*Large Devices*/
+@media(min-width:1200px){
+}
+
+#myBtn{}
+
+#demo{}
+
